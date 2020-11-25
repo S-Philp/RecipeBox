@@ -39,7 +39,6 @@ RecipeBox started as an concept from the mind of one of the major contributors t
 With varying dietary needs and preferences for each member of the family, meal management can become a very cumbersome and taxing experience. This is where RecipeBox comes in. 
 -->
 
-I put this together to show what a detailed README is like. This README is written and styled in Markdown.  You can edit this eitehr in the browser or your code editor. VScode does have a Markdown extension which will show you the syntax highlighting.
 
 <img src="./readmeimgs/title.png">
 
