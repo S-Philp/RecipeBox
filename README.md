@@ -122,7 +122,10 @@ RecipeBox is a simple way to help store, manage and share all of your favorite d
 ____
 <label style="margin-bottom:10%">RecipeBox allows you (login as a guest and gain) access to a vast collection of Dishes from all over the globe, seamlessly.<br/></label>
  
-1. <label style="margin-top:100%" > Simply click the Guest Login button to bypass signup  
+1. <label style="margin-top:100%" > Simply click the Guest Login button to bypass signup
+ 
+  <img style="margin:1% 10% 1% 0%" src="./readmeimgs/RecipeBox.png">
+ 
 2. Select the "Search for Recipes by Ingredients" option from the dropdown menu 
 
  <img style="margin:1% 10% 1% 0%" src="./readmeimgs/6.png">
