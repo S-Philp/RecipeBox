@@ -140,7 +140,7 @@ ___________
  ___
  Click on the Recipe Details button to view the Recipe Ingredients, Directions and other recipe details.
 
-<img style="margin:1% 10% 1% 0%" src="./readmeimgs/8.png">
+<img style="margin:1% 10% 1% 0%" src="./readmeimgs/details.png">
 
 ___
 Creating a Free Account will generate your own personal Recipe Box enabling you to create & keep track of all your favorite personal recipes, as well as the many thousands of new recipes you will discover on RecipeBox.
