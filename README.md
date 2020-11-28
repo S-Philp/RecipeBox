@@ -113,7 +113,7 @@ The main component needed to run RecipeBox is Node.js
 
 RecipeBox is a simple way to help store, manage and share all of your favorite dishes.<br>
 
-<img style="margin:1% 10% 5% 0%" src="./readmeimgs/00.png">
+<img style="margin:1% 10% 5% 0%" src="./readmeimgs/home.png">
 <!-- Blah --->
 
 
