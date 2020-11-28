@@ -128,7 +128,7 @@ ____
  
 2. Select the "Search for Recipes by Ingredients" option from the dropdown menu 
 
- <img style="margin:1% 10% 1% 0%" src="./readmeimgs/6.png">
+ <img style="margin:1% 10% 1% 0%" src="./readmeimgs/search.png">
 
 ___________
 3. Input whatever eats you fancy using the search bar on the Home Page (eg. Vegan)
