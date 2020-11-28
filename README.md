@@ -131,19 +131,14 @@ ____
  <img style="margin:1% 10% 1% 0%" src="./readmeimgs/search.png">
 
 ___________
-3. Input whatever eats you fancy using the search bar on the Home Page (eg. Chicken)
+3. Input whatever eats your fancy using the search bar at the top of the page (eg. Chicken)
 </label>
  
  
  <img style="margin:1% 10% 10% 0%" src="./readmeimgs/chicken.png">
-
- 
- 
- 
- 
  
  ___
-  RecipeBox will supply a slew of different options: ranging from the more traditional and mundane dishes to those with a bit of added flair. Whatever you crave you will find in RecipeBox.
+ Click on the Recipe Details button to view the Recipe Ingredients, Directions and other recipe details.
 
 <img style="margin:1% 10% 1% 0%" src="./readmeimgs/8.png">
 
