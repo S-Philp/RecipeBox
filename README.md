@@ -224,7 +224,7 @@ ___
 - Adebowale O. -----https://github.com/AOLink
 <br/><br/>
 
-Project Link: [https://github.com/hptran7/Recipes-Project](https://github.com/hptran7/Recipes-Project)
+Project Link: [dc-recipebox.herokuapp.com](dc-recipebox.herokuapp.com)
 
 
 ___
