@@ -224,7 +224,7 @@ ___
 - Adebowale O. -----https://github.com/AOLink
 <br/><br/>
 
-Project Link: [dc-recipebox.herokuapp.com](dc-recipebox.herokuapp.com)
+Project Link: [https://dc-recipebox.herokuapp.com](https://dc-recipebox.herokuapp.com)
 
 
 ___
