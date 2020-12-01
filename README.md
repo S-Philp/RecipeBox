@@ -271,5 +271,9 @@ more examples the better.
  -->
 
  Digital Crafts Full Stack Immersive 09/2020 Back-End Project.
+ 
+ ## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/S-Philp/RecipeBox.svg)](https://starchart.cc/S-Philp/RecipeBox)
 
  </body>
